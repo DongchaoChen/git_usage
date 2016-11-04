@@ -13,3 +13,5 @@ test('LoopProtect injection', function(t) {
     'Should keep loop label intact if not lined up with loop.'
   );
 });
+
+var obj = ""
